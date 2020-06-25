@@ -3,7 +3,7 @@ package admin
 
 import (
 	"fmt"
-	"github.com/writeas/go-ghost"
+	"github.com/parrasajad/go-ghost"
 )
 
 type Client struct {

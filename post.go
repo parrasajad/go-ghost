@@ -32,6 +32,7 @@ type (
 		PrimaryTag         *Tag      `json:"primary_tag"`
 		URL                *string   `json:"url"`
 		Excerpt            *string   `json:"excerpt"`
+		Tags 			   []*Tag	 `json:"tags"`
 	}
 
 	PostParams struct {

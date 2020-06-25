@@ -2,7 +2,7 @@ package admin
 
 import (
 	"encoding/json"
-	"github.com/writeas/go-ghost"
+	"github.com/parrasajad/go-ghost"
 	"github.com/writeas/go-mobiledoc"
 	"net/http"
 )

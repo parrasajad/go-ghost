@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/writeas/go-ghost"
-	"github.com/writeas/go-ghost/admin"
+	"github.com/parrasajad/go-ghost"
+	"github.com/parrasajad/go-ghost/admin"
 	"os"
 )
 
